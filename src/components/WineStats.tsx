@@ -1,6 +1,6 @@
 import React from 'react';
 import { Table } from '@mantine/core';
-import WineData from '../Wine-Data';
+import WineData from './Wine-Data';
 
 // Function to calculate the mean of Flavanoids for a given dataset
 const calculateMean = (data: any[]) => {
