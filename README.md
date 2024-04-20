@@ -45,6 +45,8 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-
+Flavanoids Statistics Table
 ![Flavanoids Statistics Table](image.png)
+
+Gama Statistics Table
 ![Gama Statistics Table](image-1.png)
