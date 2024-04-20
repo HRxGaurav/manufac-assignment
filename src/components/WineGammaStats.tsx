@@ -1,6 +1,6 @@
 import React from 'react';
 import { Table } from '@mantine/core';
-import WineData, { Wine } from './Wine-Data';
+import WineData, { Wine } from './data/Wine-Data';
 
 // Function to calculate Gamma property for each point of the dataset
 const calculateGamma = (wine: Wine) => {

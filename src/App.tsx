@@ -3,7 +3,7 @@ import '@mantine/core/styles.css';
 import { Route, Routes } from "react-router-dom";
 import WineStats from './components/WineStats';
 import WineGammaStats from './components/WineGammaStats';
-import Navbar from './components/Navbar';
+import Navbar from './components/Navbar/Navbar';
 
 
 function App() {
